@@ -1,1 +1,1 @@
-# esp32connered
+# Practica ESP32 con Node-Red
