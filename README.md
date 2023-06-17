@@ -5,7 +5,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor dht, mos
 
 ### Descripción
 
-La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor ultrasonico para adquirir la distancia del sensor con el muro que se vera reflejado en Node-Red como grafica y como indicador; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
+La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor dht para adquirir la temperatura y la humedad del entorno que se vera reflejado en Node-Red como grafica y como indicador, ; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
 
 ## Material Necesario
