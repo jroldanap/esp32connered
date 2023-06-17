@@ -30,7 +30,7 @@ Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https:
 
 1. Abrir la terminal de programación y colocar la siguente programación:
 
-
+```
 #include <ArduinoJson.h>
 #include <WiFi.h>
 #include <PubSubClient.h>
@@ -166,8 +166,9 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
     Serial.println(output.c_str());
     client.publish("jorge/diplomado", output.c_str());
   }
-}
 
+}
+```
 
 2. Instalar las librerias de *Arduino.Json*, *PubSubClient*, *DHT sensor library for ESPx* como se muestra en la siguente imagen.
 
